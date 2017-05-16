@@ -14,9 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: All the Spoons
-email: your-email@domain.com
+email: @allthespoons on Instagram
 description: > # this means to ignore newlines until "baseurl:"
-  Visiting every Wetherspoons in London.
+  Follow our progress as we attempt to visit every Wetherspoons in London!
+  @allthespoons on IG for latest reviews.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: allthespoons
