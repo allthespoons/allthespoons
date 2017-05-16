@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: All the Spoons
-email: @allthespoons on Instagram
+email: allthespoons@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   Follow our progress as we attempt to visit every Wetherspoons in London!
   @allthespoons on IG for latest reviews.
